@@ -1,0 +1,13 @@
+myName = input("What's your name?: ")
+myFood = input("What's your favorite food?: ")
+myMusic = input("What's your favorite music?: ")
+myLocation = input("Where do you live?: ")
+print()
+print("You are")
+print(myName)
+print("You're probably hungry for")
+print(myFood)
+print("""and you're definitely getting your groove on to
+My man, Rick Astley""")
+print("living in the amazing")
+print(myLocation)
